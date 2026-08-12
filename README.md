@@ -75,7 +75,7 @@ application.
 
 ## 🖥️ Calculator Preview
 
-<img src="https://raw.githubusercontent.com/dhruvprajapati6/Cal/Main.png" alt="C# Calculator Preview" width="650">`{=html}
+<img src="Main.png" alt="C# Calculator Preview" width="650">
 
 
 **Clean UI • Colorful Controls • Simple Interaction**
