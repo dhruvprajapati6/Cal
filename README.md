@@ -1,11 +1,9 @@
-::: {align="center"}
 # 🧮 C# Simple Calculator
 
 ### ⚡ A Modern Windows Forms Desktop Calculator
 
-`<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=900&color=6C5CE7&center=true&vCenter=true&width=700&lines=Built+with+C%23+%7C+Windows+Forms;Simple+%E2%80%A2+Fast+%E2%80%A2+User-Friendly;Arithmetic+%2B+%25+%2B+%E2%88%9A+%2B+Error+Handling" alt="Typing animation" />`{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=900&color=6C5CE7&center=true&vCenter=true&width=700&lines=Built+with+C%23+%7C+Windows+Forms;Simple+%E2%80%A2+Fast+%E2%80%A2+User-Friendly;Arithmetic+%2B+%25+%2B+%E2%88%9A+%2B+Error+Handling" alt="Typing animation" />
 
-`<br>`{=html}
 
 ![C#](https://img.shields.io/badge/C%23-Programming-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-Windows%20Forms-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -13,7 +11,6 @@
 Studio](https://img.shields.io/badge/Visual%20Studio-2022-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-`<br>`{=html}
 
 ![Status](https://img.shields.io/badge/Project-Completed-success?style=flat-square)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)
@@ -78,10 +75,8 @@ application.
 
 ## 🖥️ Calculator Preview
 
-::: {align="center"}
-`<img src="https://raw.githubusercontent.com/dhruvprajapati6/Cal/main/Screenshot.png" alt="C# Calculator Preview" width="650">`{=html}
+<img src="https://raw.githubusercontent.com/dhruvprajapati6/Cal/main/Screenshot.png" alt="C# Calculator Preview" width="650">`{=html}
 
-`<br>`{=html}`<br>`{=html}
 
 **Clean UI • Colorful Controls • Simple Interaction**
 :::
