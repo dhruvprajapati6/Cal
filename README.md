@@ -1,4 +1,4 @@
-# 🧮 C# Simple Calculator
+<div> # 🧮 C# Simple Calculator </div>
 
 ### ⚡ A Modern Windows Forms Desktop Calculator
 
